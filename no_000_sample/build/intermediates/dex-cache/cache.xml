@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e3d3285f4804eeef701b9c7ee6d749d4cd1d7d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a2b734e906019037086a0578b8afd565c31a25ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_154e20f6c05cc8b6339bf20fd1fc3a0d4d5cfe96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_31bbd90a6d9b65cb2340be6f6668f0236d1db19b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_dbd7e533bb20711669d3523133427f0b9f9f52de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ab8924370966f5d8415677dda6c7f00c10568abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_664700edbca3f35c8538b09022b61d5569810b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_6b6e9fe970a967cbde627c81a225f4a0d134bc09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_8e6b33e3c15ab7505b2f36dbc4a015dbaeb485f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DevTools\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7c0fefc02e5284975f30b12b923fef0125734d70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ebb9c0da5450751fdab052d19a7df6ef7645650c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_6daa378d7ad8f36b7b4ead579761db88f6698c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_4c0f60a74f6058585e7aa7d3bd20f8bdb8bbd1bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a79c6d432690c0d6133a5f9ffaa4808b6dc74efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Projects\diql\DemoAndroid\no_000_sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_397a7fb19bb61dc2be8e502ebec9f8a409a78f59.jar" />
+    </item>
+
+</items>
